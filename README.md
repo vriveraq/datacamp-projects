@@ -5,6 +5,7 @@ This repository contains the Python notebooks from different projects from the D
 |---|---|
 |ASL Recognition with Deep Learning| Build a convolutional neural network to classify images of letters from American Sign Language.|
 |Book Recommendations from Charles Darwin| Build a book recommendation system using NLP and the text of books like "On the Origin of Species."|
+|Classify Song Genres from Audio Data| Rock or rap? Apply machine learning methods in Python to classify songs into genres.|
 |Dr. Semmelweis and the Discovery of Handwashing| Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing.|
 |Exploring 67 years of LEGO| In this project we will explore a database of every LEGO set ever built.|
 |Extract Stock Sentiment from News Headlines | Scrape news headlines for FB and TSLA then apply sentiment analysis to generate investment insight.|
