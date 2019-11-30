@@ -1,6 +1,8 @@
 # DataCamp Projects
 This repository contains the Python notebooks from different projects from the DataCamp platform including:
 
+# Python
+
 | Name| Description|
 |---|---|
 |ASL Recognition with Deep Learning| Build a convolutional neural network to classify images of letters from American Sign Language.|
@@ -15,4 +17,12 @@ This repository contains the Python notebooks from different projects from the D
 |Naïve Bees, Image Loading and Processing| Load, transform, and understand images of honey bees and bumble bees in Python.|
 |Naïve Bees, Deep Learning with Images|	Build a deep learning model that can automatically detect honey bees and bumble bees in images.|
 |Predicting Credit Card Applications Approvals| Build a machine learning model to predict if a credit card application will get approved.|
+|Real-time Insights from Social Media Data |Learn to analyze Twitter data and do a deep dive into a hot trend.|
+|Reducing Traffic Mortality in the USA|How can we find a good strategy for reducing traffic-related deaths?|
 |The Hottest Topics in Machine Learning|Use Natural Language Processing on NIPS papers to uncover the trendiest topics in machine learning research. |
+|Which Debts Are Worth the Bank's Effort?|Play bank data scientist and use regression discontinuity to see which debts are worth collecting.|
+
+# SQL
+| Name| Description|
+|---|---|
+|Analyze International Debt Statistics |Write SQL queries to answer interesting questions about international debt using data from The World Bank.|
