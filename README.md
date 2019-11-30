@@ -4,6 +4,7 @@ This repository contains the Python notebooks from different projects from the D
 | Name| Description|
 |---|---|
 |ASL Recognition with Deep Learning| Build a convolutional neural network to classify images of letters from American Sign Language.|
+|Analyze Your Runkeeper Fitness Data|Import, clean, and analyze seven years worth of training data tracked on the Runkeeper app.|
 |Book Recommendations from Charles Darwin| Build a book recommendation system using NLP and the text of books like "On the Origin of Species."|
 |Classify Song Genres from Audio Data| Rock or rap? Apply machine learning methods in Python to classify songs into genres.|
 |Dr. Semmelweis and the Discovery of Handwashing| Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing.|
